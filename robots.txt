@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-wwpoz9.trans88.biz/sitemap.xml
